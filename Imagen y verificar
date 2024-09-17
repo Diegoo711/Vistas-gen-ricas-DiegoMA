@@ -1,0 +1,4 @@
+mkdir polls/static/polls/images
+cp /path/to/your/background.png polls/static/polls/images/background.png
+
+python manage.py runserver
